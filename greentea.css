@@ -1,0 +1,65 @@
+body{
+  background-image: url(beverage-chiang-mai-cup-1581484.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h1{
+  color: white;
+  padding-right:100px;
+  padding-left: 40%;
+  text-align:right ;
+  font-size: 160px;
+  font-weight: bold;
+  font-family: 'Lato', sans-serif;
+  line-height: 125px;
+}
+h2{
+  color:white;
+  position:absolute; left: 45%; top: 10px ;
+  font-family: 'Lato', sans-serif;
+}
+p.para{
+  color: white;
+  padding-right:100px;
+  padding-left: 66%;
+  position: absolute; bottom:330px;
+  text-align:right ;
+  font-family: 'Lato', sans-serif;
+
+}
+#a0{
+    transform: rotate(-90deg);
+    position: absolute; left: 10px;
+}
+#a0 a{
+  color: white;
+  text-decoration: none;
+  text-align: left;
+  font-size: 30px;
+}
+#a0 a.a2{
+  padding-left: 160px;
+  position: absolute; left: 40px;
+}
+#a0 a.a1{
+  position: absolute; left:-100px;
+}
+.image{
+  position: relative; top:-200px; left:-100px;
+}
+.foot{
+color: white;
+display: flex;
+justify-content:space-around;
+
+}
+.play{
+  position: absolute; bottom: 90px; left:270px;
+}
+span.leaf{
+  font-weight: bold;
+  background-color: #6DCE28;
+}
+.icon-bar{
+  position: absolute;top: 30px;
+}
